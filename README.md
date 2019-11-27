@@ -17,7 +17,7 @@ This a sample testing project using [Cypress](https://www.cypress.io/).
 	```
 1. Clone your fork.
    ```
-   git clone https://github.com/{your-username}/cypress-sample.git
+   git clone https://github.com/bulacsobilly/cypress-sample.git
    ```
 2. Change to the project directory.
    ```
@@ -31,4 +31,4 @@ This a sample testing project using [Cypress](https://www.cypress.io/).
 	```
 	npm run cypress:open
 	```
-1. Edit the test inside `cypress/integration/signup.js`.
+1. Edit the test inside `cypress/integration/Examination.js`.
